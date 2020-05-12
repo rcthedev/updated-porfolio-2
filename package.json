@@ -1,0 +1,19 @@
+{
+  "name": "updated-porfolio-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcthedev/updated-porfolio-2.git"
+  },
+  "author": "Robert Chavez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcthedev/updated-porfolio-2/issues"
+  },
+  "homepage": "https://github.com/rcthedev/updated-porfolio-2#readme"
+}
